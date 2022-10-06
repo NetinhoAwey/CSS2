@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+@font-face {
+    font-family: 'play';
+    src: url('Play-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+    }
+
+body {
+    background-color: rgb(16, 28, 100);
+}
+
+h1 {
+    color:black;
+    font-size: 16px;
+    font-family: 'play', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    color:black;
+    font-size: 16px;
+
+}
+
+p {
+    color:darkgray;
+    text-align: justify;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+ol {
+    text-align: center;
+    padding: 20px 0;
+    margin-left: 21px;
+}
+
+li {
+    float:left;
+    width: 130px;
+}
+
+table {
+    float:left;
+    width: 60vw;
+}
